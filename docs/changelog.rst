@@ -208,6 +208,9 @@ Detailed list of changes
 
 - Add :opt:`window_border_radius` for rounded window borders (:pull:`10421`)
 
+- Layouts: Align window frames that share an outer edge, use uniform horizontal
+  and vertical gaps, and collapse margins on neighboring edges
+
 - Add :ref:`fixed-size docked windows <docked_windows>` at any tab or window
   edge, with launch, remote-control and session support (:iss:`2391`)
 
